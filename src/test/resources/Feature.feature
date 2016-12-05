@@ -2,7 +2,7 @@
 Feature: Feature
 
 @SC_106981
-Scenario: 
+Scenario: Name scenario 1
 Given some given
 When do something
 Then I do...
